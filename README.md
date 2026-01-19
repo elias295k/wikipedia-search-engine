@@ -97,3 +97,10 @@ Each search returns:
 
 
 Sorted from best to worst match, with a maximum of 100 results.
+
+## Live Search Engine
+
+The search engine is publicly available at:
+
+http://136.113.78.126:8080/search?query=hello+world
+
